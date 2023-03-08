@@ -8,6 +8,7 @@ public class RodrigoPabloApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RodrigoPabloApplication.class, args);
+		System.out.println("Rodando..");
 	}
 
 }
